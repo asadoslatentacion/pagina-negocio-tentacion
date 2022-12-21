@@ -1,0 +1,35 @@
+body{
+
+
+}
+
+table{
+color: blue;
+}
+
+h3{
+color: brown;
+
+}
+
+.formulario{
+	border-width: 4px;
+	background-color: white;
+	margin: 10px 500px;
+	padding: 20px 20px;
+	border-color: green;
+}
+
+form{
+
+	
+	border-radius: 10px;
+}
+
+a {
+	background-color: red;
+}
+
+header div li a {
+	color: white;
+}
